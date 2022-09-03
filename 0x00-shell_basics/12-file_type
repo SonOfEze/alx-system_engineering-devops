@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -l /tmp/iamfile >> 12-file_type
-echo ls -l /tmp/iamfile >> 12-file_type
-echo ls -l /tmp/iamfile
-ls -l /tmp/iamfile
+ls -l /tmp/imafile
